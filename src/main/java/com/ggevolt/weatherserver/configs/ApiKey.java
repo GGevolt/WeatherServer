@@ -11,6 +11,6 @@ import org.springframework.context.annotation.Configuration;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class ApiKeyConfig {
+public class ApiKey {
     private String openWeather;
 }
